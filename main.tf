@@ -77,7 +77,7 @@ variable "Broker3_ip" {
 }
 ####################################################################
 
-#Creating AMQ Message Broker for Pathways2
+#Creating AMQ Message Broker
 #####################################################################
 
 module "AMQ_security_group" {
